@@ -1,2 +1,2 @@
 # restsdp
-Project used during SDP 2020/2021. It's about REST.
+Small Spring Boot app with the usage of PUT, POST, GET and DELETE, JPA and Mockito
