@@ -1,2 +1,2 @@
 # restsdp
-Small Spring Boot app with the usage of PUT, POST, GET and DELETE, JPA and Mockito
+Small Spring Boot app with the usage of http methods (GET, POST, PUT, DELETE), JPA and Mockito
